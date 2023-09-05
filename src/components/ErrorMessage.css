@@ -1,0 +1,44 @@
+.msg-container {
+    background-color: aliceblue;
+    /* padding: 1rem; */
+    /* font-size: 1.5rem; */
+    margin: 2rem auto;
+    width: 50vw;
+    border-radius: 1rem;
+}
+
+.backdrop {
+    position: fixed;
+    /* top: 0; */
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+}
+
+.header {
+    background-color: #0C356A;
+    color: white;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.btn {
+    background-color: #0C356A;
+    color: white;
+    padding: 0.5rem;
+    width: 4rem;
+    float: right;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.body {
+    padding: 3rem;
+    /* display: flex;
+    flex-direction: column; */
+}

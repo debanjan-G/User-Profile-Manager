@@ -1,0 +1,9 @@
+.list-item {
+    /* display: inline-block;    */
+    border-radius: 1rem;
+    width: 50vw;
+    margin: auto;
+    padding: 1rem;
+    background-color: #F6F1F1;
+    color: #102C57;
+}
